@@ -1,5 +1,6 @@
 package Base4JDK.util;
 
+
 /**
 * @Description: 基于链表实现linkedList
 * @author jiangcaijun
